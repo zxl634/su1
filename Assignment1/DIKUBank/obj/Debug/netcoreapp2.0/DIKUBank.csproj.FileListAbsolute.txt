@@ -1,0 +1,10 @@
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/bin/Debug/netcoreapp2.0/DIKUBank.deps.json
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/bin/Debug/netcoreapp2.0/DIKUBank.runtimeconfig.json
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/bin/Debug/netcoreapp2.0/DIKUBank.runtimeconfig.dev.json
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/bin/Debug/netcoreapp2.0/DIKUBank.dll
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/bin/Debug/netcoreapp2.0/DIKUBank.pdb
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/obj/Debug/netcoreapp2.0/DIKUBank.csproj.CoreCompileInputs.cache
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/obj/Debug/netcoreapp2.0/DIKUBank.AssemblyInfoInputs.cache
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/obj/Debug/netcoreapp2.0/DIKUBank.AssemblyInfo.cs
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/obj/Debug/netcoreapp2.0/DIKUBank.dll
+/Users/avr/Dropbox (Personal)/Datalogi/Softwareudvikling/Assignments/1/Assignment1/DIKUBank/obj/Debug/netcoreapp2.0/DIKUBank.pdb
